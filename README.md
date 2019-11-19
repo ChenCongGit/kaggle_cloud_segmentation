@@ -1,5 +1,5 @@
 # Understanding Clouds from Satellite Images
-[Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)比赛代码，最终成绩铜牌，Public Leaderboard:「129/1556」，Private Leaderboard:「148/1556」，dice: 65.563%
+[Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization)比赛代码，最终成绩铜牌，Public Leaderboard:「129/1556」，Private Leaderboard:「138/1538」，dice: 65.563%
 
 ## Overview
 该比赛对下图这种气象云图进行分割，将不同形态的云区域分割出来，包括sugar、flower、fish、gravel。
